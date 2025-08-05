@@ -1,8 +1,14 @@
-# React + Vite
+## REACT DESIGN
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Layout Components
+ - pattern to split the screen and reuse the component
 
-Currently, two official plugins are available:
+### Container Components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Controlled and Uncontrolled Components
+
+### Higher Order Components
+
+### Custom Hooks Patterns
+
+### Function Programming and React
